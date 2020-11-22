@@ -1,0 +1,8 @@
+Put Flash Player projector file here.
+You can download the latest Flash Player projector at
+https://www.adobe.com/support/flashplayer/debug_downloads.html
+
+
+Put Converter.swf file here.
+You can download Converter.swf from 
+https://asentientbot.github.io/
